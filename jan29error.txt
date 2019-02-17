@@ -1,0 +1,469 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/project[0m
+[0m[[0minfo[0m] [0mSet current project to TornadoWebUI (in build file:/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive%20-%20purdue.edu/S8/CS490/webui/)[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive%20-%20purdue.edu/S8/CS490/webui/}webui...[0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-actor_2.10;2.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.typesafe#config;1.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-slf4j_2.10;2.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-remote_2.10;2.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.netty#netty;3.8.0.Final ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.google.protobuf#protobuf-java;2.5.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.uncommons.maths#uncommons-maths;1.2.2a ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-can_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-io_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-util_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-http_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.parboiled#parboiled-scala_2.10;1.1.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.parboiled#parboiled-core;1.1.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-routing_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-httpx_2.10;1.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.jvnet.mimepull#mimepull;1.9.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.chuusai#shapeless_2.10;1.2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.spray#spray-json_2.10;1.3.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-api;1.7.12 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#hbc-core;2.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpclient;4.2.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcore;4.2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-logging#commons-logging;1.1.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-codec#commons-codec;1.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.google.guava#guava;14.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#joauth;6.0.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.google.code.findbugs#jsr305;1.3.9 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#hbc-twitter4j;2.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.twitter4j#twitter4j-core;4.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.twitter4j#twitter4j-stream;4.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-core;0.20.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-cli#commons-cli;1.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving xmlenc#xmlenc;0.52 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-httpclient#commons-httpclient;3.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-net#commons-net;1.4.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving oro#oro;2.0.8 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty;6.1.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty-util;6.1.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#servlet-api-2.5;6.1.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving tomcat#jasper-runtime;5.5.12 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving tomcat#jasper-compiler;5.5.12 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jsp-api-2.1;6.1.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jsp-2.1;6.1.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jdt#core;3.1.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ant#ant;1.6.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-el#commons-el;1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving net.java.dev.jets3t#jets3t;0.7.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving net.sf.kosmosfs#kfs;0.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving junit#junit;4.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving hsqldb#hsqldb;1.8.0.10 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving joda-time#joda-time;latest.integration ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving joda-time#joda-time;latest.integration ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.joda#joda-convert;latest.integration ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.joda#joda-convert;latest.integration ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving log4j#log4j;1.2.14 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.fluttercode.datafactory#datafactory;0.8 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.storm#storm-core;0.9.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.clojure#clojure;1.5.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving clj-time#clj-time;0.4.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving clj-time#clj-time;0.4.1 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: clj-time#clj-time;0.4.1[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/clj-time/clj-time/0.4.1/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/clj-time/clj-time/0.4.1/clj-time-0.4.1.pom[0m
+[0m[[0minfo[0m] [0mResolving compojure#compojure;1.1.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving compojure#compojure;1.1.3 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: compojure#compojure;1.1.3[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/compojure/compojure/1.1.3/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/compojure/compojure/1.1.3/compojure-1.1.3.pom[0m
+[0m[[0minfo[0m] [0mResolving org.clojure#core.incubator;0.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.clojure#tools.macro;0.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving clout#clout;1.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving clout#clout;1.0.1 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: clout#clout;1.0.1[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/clout/clout/1.0.1/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/clout/clout/1.0.1/clout-1.0.1.pom[0m
+[0m[[0minfo[0m] [0mResolving ring#ring-core;1.1.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ring#ring-core;1.1.5 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: ring#ring-core;1.1.5[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/ring/ring-core/1.1.5/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/ring/ring-core/1.1.5/ring-core-1.1.5.pom[0m
+[0m[[0minfo[0m] [0mResolving commons-fileupload#commons-fileupload;1.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving javax.servlet#servlet-api;2.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving hiccup#hiccup;0.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving hiccup#hiccup;0.3.6 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: hiccup#hiccup;0.3.6[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/hiccup/hiccup/0.3.6/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/hiccup/hiccup/0.3.6/hiccup-0.3.6.pom[0m
+[0m[[0minfo[0m] [0mResolving ring#ring-devel;0.3.11 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ring#ring-devel;0.3.11 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: ring#ring-devel;0.3.11[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/ring/ring-devel/0.3.11/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/ring/ring-devel/0.3.11/ring-devel-0.3.11.pom[0m
+[0m[[0minfo[0m] [0mResolving clj-stacktrace#clj-stacktrace;0.2.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving clj-stacktrace#clj-stacktrace;0.2.2 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: clj-stacktrace#clj-stacktrace;0.2.2[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/clj-stacktrace/clj-stacktrace/0.2.2/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/clj-stacktrace/clj-stacktrace/0.2.2/clj-stacktrace-0.2.2.pom[0m
+[0m[[0minfo[0m] [0mResolving ring#ring-jetty-adapter;0.3.11 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ring#ring-jetty-adapter;0.3.11 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: ring#ring-jetty-adapter;0.3.11[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/ring/ring-jetty-adapter/0.3.11/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/ring/ring-jetty-adapter/0.3.11/ring-jetty-adapter-0.3.11.pom[0m
+[0m[[0minfo[0m] [0mResolving ring#ring-servlet;0.3.11 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ring#ring-servlet;0.3.11 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: ring#ring-servlet;0.3.11[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/ring/ring-servlet/0.3.11/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/ring/ring-servlet/0.3.11/ring-servlet-0.3.11.pom[0m
+[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty;6.1.26 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#jetty-util;6.1.26 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.mortbay.jetty#servlet-api;2.5-20081211 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.clojure#tools.logging;0.2.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.clojure#math.numeric-tower;0.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.clojure#tools.cli;0.2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-io#commons-io;2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.commons#commons-exec;1.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-lang#commons-lang;2.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.googlecode.json-simple#json-simple;1.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#carbonite;1.4.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#carbonite;1.4.0 ...[0m
+[0m[[33mwarn[0m] [0m	module not found: com.twitter#carbonite;1.4.0[0m
+[0m[[33mwarn[0m] [0m==== local: tried[0m
+[0m[[33mwarn[0m] [0m  /Users/peytonpuckett/.ivy2/local/com.twitter/carbonite/1.4.0/ivys/ivy.xml[0m
+[0m[[33mwarn[0m] [0m==== public: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[33mwarn[0m] [0m==== spray repo: tried[0m
+[0m[[33mwarn[0m] [0m  http://repo.spray.io/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[33mwarn[0m] [0m==== spray nightlies: tried[0m
+[0m[[33mwarn[0m] [0m  http://nightlies.spray.io/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[33mwarn[0m] [0m==== Sonatype Snapshots: tried[0m
+[0m[[33mwarn[0m] [0m  https://oss.sonatype.org/content/repositories/releases/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[33mwarn[0m] [0m==== Secured Central Repository: tried[0m
+[0m[[33mwarn[0m] [0m  https://repo1.maven.org/maven2/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[33mwarn[0m] [0m==== Maven2 Local: tried[0m
+[0m[[33mwarn[0m] [0m  file:/Users/peytonpuckett/.m2/repository/com/twitter/carbonite/1.4.0/carbonite-1.4.0.pom[0m
+[0m[[0minfo[0m] [0mResolving com.esotericsoftware.kryo#kryo;2.21 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.ow2.asm#asm;4.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.esotericsoftware.minlog#minlog;1.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.objenesis#objenesis;1.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#chill-java;0.3.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.yaml#snakeyaml;1.11 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-logging#commons-logging;1.1.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.googlecode.disruptor#disruptor;2.10.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.jgrapht#jgrapht-core;0.9.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ch.qos.logback#logback-classic;1.0.13 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving ch.qos.logback#logback-core;1.0.13 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving jline#jline;2.11 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.kafka#kafka_2.10;0.8.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.yammer.metrics#metrics-core;2.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.kafka#kafka-clients;0.8.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving net.jpountz.lz4#lz4;1.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.xerial.snappy#snappy-java;1.1.1.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.zookeeper#zookeeper;3.4.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-log4j12;1.6.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving net.sf.jopt-simple#jopt-simple;3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.101tec#zkclient;0.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.scalatest#scalatest_2.10;2.2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.10.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.spark#spark-core_2.10;1.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-client;1.0.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.hadoop#hadoop-core;1.0.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-codec#commons-codec;1.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.commons#commons-math;2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-configuration#commons-configuration;1.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-collections#commons-collections;3.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-lang#commons-lang;2.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-digester#commons-digester;1.8 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-beanutils#commons-beanutils;1.7.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-beanutils#commons-beanutils-core;1.8.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-net#commons-net;2.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.codehaus.jackson#jackson-mapper-asl;1.8.8 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.codehaus.jackson#jackson-core-asl;1.8.8 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving commons-httpclient#commons-httpclient;3.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.curator#curator-recipes;2.4.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.curator#curator-framework;2.4.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.curator#curator-client;2.4.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-api;1.7.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.zookeeper#zookeeper;3.4.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-log4j12;1.7.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving log4j#log4j;1.2.17 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving jline#jline;0.9.94 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-plus;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty.orbit#javax.transaction;1.1.1.v201105210645 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-webapp;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-xml;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-util;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-servlet;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-security;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-server;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-continuation;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-http;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-io;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty#jetty-jndi;8.1.14.v20131031 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty.orbit#javax.mail.glassfish;1.4.1.v201005082020 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.eclipse.jetty.orbit#javax.activation;1.1.0.v201105071233 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.commons#commons-lang3;3.3.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#jul-to-slf4j;1.7.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.slf4j#jcl-over-slf4j;1.7.5 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.ning#compress-lzf;1.0.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.xerial.snappy#snappy-java;1.0.5.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#chill_2.10;0.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.twitter#chill-java;0.3.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.spark-project.akka#akka-remote_2.10;2.2.3-shaded-protobuf ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.spark-project.akka#akka-actor_2.10;2.2.3-shaded-protobuf ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.typesafe#config;1.0.2 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.netty#netty;3.6.6.Final ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.spark-project.protobuf#protobuf-java;2.4.1-shaded ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.spark-project.akka#akka-slf4j_2.10;2.2.3-shaded-protobuf ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.json4s#json4s-jackson_2.10;3.2.10 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.json4s#json4s-core_2.10;3.2.10 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.json4s#json4s-ast_2.10;3.2.10 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.thoughtworks.paranamer#paranamer;2.6 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.scala-lang#scalap;2.10.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.10.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.fasterxml.jackson.core#jackson-databind;2.3.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.fasterxml.jackson.core#jackson-annotations;2.3.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.fasterxml.jackson.core#jackson-core;2.3.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving colt#colt;1.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving concurrent#concurrent;1.3.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.mesos#mesos;0.18.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving io.netty#netty-all;4.0.23.Final ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.clearspring.analytics#stream;2.7.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.codahale.metrics#metrics-core;3.0.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.codahale.metrics#metrics-jvm;3.0.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.codahale.metrics#metrics-json;3.0.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.codahale.metrics#metrics-graphite;3.0.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.tachyonproject#tachyon-client;0.5.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.tachyonproject#tachyon;0.5.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.spark-project#pyrolite;2.0.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving net.sf.py4j#py4j;0.8.2.1 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.spark#spark-streaming_2.10;1.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.spark#spark-streaming-kafka_2.10;1.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.kafka#kafka_2.10;0.8.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving com.yammer.metrics#metrics-annotation;2.2.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.apache.spark#spark-streaming-twitter_2.10;1.1.0 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.twitter4j#twitter4j-stream;3.0.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.twitter4j#twitter4j-core;3.0.3 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.scala-lang#jline;2.10.4 ...[0m
+M[2K[0m[[0minfo[0m] [0mResolving org.fusesource.jansi#jansi;1.4 ...[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[33mwarn[0m] [0m	::          UNRESOLVED DEPENDENCIES         ::[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[33mwarn[0m] [0m	:: clj-time#clj-time;0.4.1: not found[0m
+[0m[[33mwarn[0m] [0m	:: compojure#compojure;1.1.3: not found[0m
+[0m[[33mwarn[0m] [0m	:: clout#clout;1.0.1: not found[0m
+[0m[[33mwarn[0m] [0m	:: ring#ring-core;1.1.5: not found[0m
+[0m[[33mwarn[0m] [0m	:: hiccup#hiccup;0.3.6: not found[0m
+[0m[[33mwarn[0m] [0m	:: ring#ring-devel;0.3.11: not found[0m
+[0m[[33mwarn[0m] [0m	:: clj-stacktrace#clj-stacktrace;0.2.2: not found[0m
+[0m[[33mwarn[0m] [0m	:: ring#ring-jetty-adapter;0.3.11: not found[0m
+[0m[[33mwarn[0m] [0m	:: ring#ring-servlet;0.3.11: not found[0m
+[0m[[33mwarn[0m] [0m	:: com.twitter#carbonite;1.4.0: not found[0m
+[0m[[33mwarn[0m] [0m	::::::::::::::::::::::::::::::::::::::::::::::[0m
+[0m[[33mwarn[0m] [0m[0m
+[0m[[33mwarn[0m] [0m	Note: Unresolved dependencies path:[0m
+[0m[[33mwarn[0m] [0m		ring:ring-jetty-adapter:0.3.11[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		clj-time:clj-time:0.4.1[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		ring:ring-servlet:0.3.11[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		hiccup:hiccup:0.3.6[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		com.twitter:carbonite:1.4.0[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		ring:ring-devel:0.3.11[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		compojure:compojure:1.1.3[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		clout:clout:1.0.1[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		clj-stacktrace:clj-stacktrace:0.2.2[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+[0m[[33mwarn[0m] [0m		ring:ring-core:1.1.5[0m
+[0m[[33mwarn[0m] [0m		  +- org.apache.storm:storm-core:0.9.5 (/Users/peytonpuckett/Desktop/OneDrivePurdue/OneDrive - purdue.edu/S8/CS490/webui/build.sbt#L78-79)[0m
+[0m[[33mwarn[0m] [0m		  +- tornadowebui:tornadowebui_2.10:0.1[0m
+sbt.ResolveException: unresolved dependency: clj-time#clj-time;0.4.1: not found
+unresolved dependency: compojure#compojure;1.1.3: not found
+unresolved dependency: clout#clout;1.0.1: not found
+unresolved dependency: ring#ring-core;1.1.5: not found
+unresolved dependency: hiccup#hiccup;0.3.6: not found
+unresolved dependency: ring#ring-devel;0.3.11: not found
+unresolved dependency: clj-stacktrace#clj-stacktrace;0.2.2: not found
+unresolved dependency: ring#ring-jetty-adapter;0.3.11: not found
+unresolved dependency: ring#ring-servlet;0.3.11: not found
+unresolved dependency: com.twitter#carbonite;1.4.0: not found
+	at sbt.IvyActions$.sbt$IvyActions$$resolve(IvyActions.scala:243)
+	at sbt.IvyActions$$anonfun$updateEither$1.apply(IvyActions.scala:158)
+	at sbt.IvyActions$$anonfun$updateEither$1.apply(IvyActions.scala:156)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:147)
+	at sbt.IvySbt$Module$$anonfun$withModule$1.apply(Ivy.scala:147)
+	at sbt.IvySbt$$anonfun$withIvy$1.apply(Ivy.scala:124)
+	at sbt.IvySbt.sbt$IvySbt$$action$1(Ivy.scala:56)
+	at sbt.IvySbt$$anon$3.call(Ivy.scala:64)
+	at xsbt.boot.Locks$GlobalLock.withChannel$1(Locks.scala:93)
+	at xsbt.boot.Locks$GlobalLock.xsbt$boot$Locks$GlobalLock$$withChannelRetries$1(Locks.scala:78)
+	at xsbt.boot.Locks$GlobalLock$$anonfun$withFileLock$1.apply(Locks.scala:97)
+	at xsbt.boot.Using$.withResource(Using.scala:10)
+	at xsbt.boot.Using$.apply(Using.scala:9)
+	at xsbt.boot.Locks$GlobalLock.ignoringDeadlockAvoided(Locks.scala:58)
+	at xsbt.boot.Locks$GlobalLock.withLock(Locks.scala:48)
+	at xsbt.boot.Locks$.apply0(Locks.scala:31)
+	at xsbt.boot.Locks$.apply(Locks.scala:28)
+	at sbt.IvySbt.withDefaultLogger(Ivy.scala:64)
+	at sbt.IvySbt.withIvy(Ivy.scala:119)
+	at sbt.IvySbt.withIvy(Ivy.scala:116)
+	at sbt.IvySbt$Module.withModule(Ivy.scala:147)
+	at sbt.IvyActions$.updateEither(IvyActions.scala:156)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1282)
+	at sbt.Classpaths$$anonfun$sbt$Classpaths$$work$1$1.apply(Defaults.scala:1279)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$84.apply(Defaults.scala:1309)
+	at sbt.Classpaths$$anonfun$doWork$1$1$$anonfun$84.apply(Defaults.scala:1307)
+	at sbt.Tracked$$anonfun$lastOutput$1.apply(Tracked.scala:35)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1312)
+	at sbt.Classpaths$$anonfun$doWork$1$1.apply(Defaults.scala:1306)
+	at sbt.Tracked$$anonfun$inputChanged$1.apply(Tracked.scala:45)
+	at sbt.Classpaths$.cachedUpdate(Defaults.scala:1324)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1264)
+	at sbt.Classpaths$$anonfun$updateTask$1.apply(Defaults.scala:1242)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m[[31merror[0m] [0m(*:[31mupdate[0m) sbt.ResolveException: unresolved dependency: clj-time#clj-time;0.4.1: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: compojure#compojure;1.1.3: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: clout#clout;1.0.1: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: ring#ring-core;1.1.5: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: hiccup#hiccup;0.3.6: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: ring#ring-devel;0.3.11: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: clj-stacktrace#clj-stacktrace;0.2.2: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: ring#ring-jetty-adapter;0.3.11: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: ring#ring-servlet;0.3.11: not found[0m
+[0m[[31merror[0m] [0munresolved dependency: com.twitter#carbonite;1.4.0: not found[0m
+[0m[[31merror[0m] [0mTotal time: 17 s, completed Jan 29, 2019 12:47:54 PM[0m
